@@ -7,6 +7,9 @@ tennis
 volleyball
 
 
+chess
+carroms
+
 thankyou
 
 final copy
