@@ -6,6 +6,9 @@ tennis
 
 volleyball
 
+carroms
+chess
+
 
 thankyou
 
